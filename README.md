@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on mobile apps
 - 📫 How to reach me omidjalilian147@gmail.com
 - check out my website dimosoftwares.com
-- im currently educating at azad university of tehran(IAU)
+- im currently studing computer science at azad university of tehran(IAU)
 
 <!---
 dimo147/dimo147 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
